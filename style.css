@@ -224,7 +224,7 @@ h2 {
 }
 
 .slider img {
-    width: 100%; 
+    width: 80%; 
     height:100% ; 
     object-fit: cover; 
     border: none; 
