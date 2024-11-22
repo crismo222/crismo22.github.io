@@ -175,7 +175,9 @@ section {
     min-height: 100vh;
     background: -webkit-linear-gradient(to right, #82100a, #82090b);
     background: linear-gradient(to right, #000000, #001240);
-    
+    background-image: url(gif3.gif);
+    background-position: center;
+    background-size: cover;
 
 }
 
